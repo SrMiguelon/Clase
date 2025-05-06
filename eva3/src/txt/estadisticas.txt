@@ -1,0 +1,7 @@
+Linea 1 tiene:19 caracteres y 5 palabras 
+Linea 2 tiene:20 caracteres y 5 palabras 
+Linea 3 tiene:22 caracteres y 5 palabras 
+Linea 4 tiene:29 caracteres y 7 palabras 
+Total de lineas: 4 
+Total de caracteres: 90
+Total de palabras: 22
